@@ -1,4 +1,4 @@
-const ignoredModules = ['@coreui/icons', '@coreui/utils'].join('|')
+const ignoredModules = ['Idea Management System'].join('|')
 
 module.exports = {
   moduleFileExtensions: [
